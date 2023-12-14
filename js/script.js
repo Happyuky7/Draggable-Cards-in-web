@@ -1,4 +1,5 @@
 // Script:
+// Github: https://github.com/Happyuky7/Draggable-Cards-in-web/edit/master/js/script.js
 document.addEventListener('DOMContentLoaded', async () => {
 
     // Start Configuration
