@@ -5,7 +5,7 @@ Draggable-Cards-in-web is a simple Script Draggable Cards + Website for example 
 
 ## License
 
-- [View License](https://github.com/HappyRogelio7/Draggable-Cards-in-web/tree/master/LICENSE)
+- [View License](https://github.com/Happyuky7/Draggable-Cards-in-web/tree/master/LICENSE)
 
 ## Using the Draggable Cards 
 
@@ -13,6 +13,7 @@ Using in very easy configurations
 
 ```js
 // Script:
+// Github: https://github.com/Happyuky7/Draggable-Cards-in-web/edit/master/js/script.js
 document.addEventListener('DOMContentLoaded', async () => {
 
     // Start Configuration
@@ -201,7 +202,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 ```
 
-In html view [index.html | Click here](https://github.com/HappyRogelio7/Draggable-Cards-in-web/tree/master/index.html)
+In html view [index.html | Click here](https://github.com/Happyuky7/Draggable-Cards-in-web/tree/master/index.html)
 
 
 
